@@ -1,1 +1,1 @@
-text from win
+text from windows
