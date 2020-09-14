@@ -1,1 +1,1 @@
-text from windows
+good version Lin And Win
